@@ -5,4 +5,4 @@
 title: Test
 ---
 
-My Github can be found: (https://github.com/LauraIsCool)
+My Github can be found: <https://github.com/LauraIsCool>
