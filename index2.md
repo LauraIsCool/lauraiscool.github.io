@@ -1,5 +1,5 @@
 # lauraiscool.github.io
-personal website
+## This is my personal website.
 
 ---
 title: Test
