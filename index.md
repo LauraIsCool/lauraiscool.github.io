@@ -72,7 +72,7 @@ footer {
 
 
 <header>
-  <h2>Navigation</h2>
+  <h2>Laura Pemberton's GitHub Page</h2>
 </header>
 
 <section>
