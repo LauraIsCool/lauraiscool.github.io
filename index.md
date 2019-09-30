@@ -1,4 +1,4 @@
-# lauraiscool.github.io
+# Laura's Personal Github
 ## This is my personal website.
 
 ---
