@@ -1,5 +1,5 @@
 # Laura Pemberton
-## This is my personal website.
+#### This is my personal website.
 
 
 <hr>
@@ -10,5 +10,5 @@
 <hr>
 
 # My Work
-<p>My Github can be found: </p>
-<a href="https://github.com/LauraIsCool">Click Here</a>
+My Github can be found:
+<a href="https://github.com/LauraIsCool">Here</a>
