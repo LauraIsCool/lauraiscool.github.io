@@ -59,7 +59,6 @@ footer {
   color: white;
 }
 
-/* Responsive layout - makes the two columns/boxes stack on top of each other instead of next to each other, on small screens */
 @media (max-width: 600px) {
   nav, article {
     width: 100%;
@@ -72,7 +71,7 @@ footer {
 
 
 <header>
-  <h2>Laura Pemberton's GitHub Page</h2>
+  <h2>Laura Pemberton</h2>
 </header>
 
 <section>
@@ -84,7 +83,7 @@ footer {
     </ul>
   </nav>
   
-  <article> /* main section*/
+  <article>
     <p>Welcome to my GitHub website.</p>
   <p> Use the navigation bar to the left of this section to browse this website.</p>
   <a href="https://github.com/LauraIsCool"> Click here to access my GitHub page</a>
