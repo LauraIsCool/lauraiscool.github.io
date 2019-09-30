@@ -3,10 +3,12 @@
 
 
 <hr>
-
-# My Work
-My Github can be found:
-<a href="https://github.com/LauraIsCool">Here</a>
+<div class="w3-blue">
+  <h2>My Work</h2>
+  <p>My Github can be found:
+  <a href="https://github.com/LauraIsCool">Here</a>
+  </p>
+</div>
 
 <hr>
 ## Navigation
