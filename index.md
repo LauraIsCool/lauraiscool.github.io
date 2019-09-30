@@ -12,3 +12,7 @@
 # My Work
 My Github can be found:
 <a href="https://github.com/LauraIsCool">Here</a>
+
+<hr>
+
+<a href="page2.html">Page 2</a>
