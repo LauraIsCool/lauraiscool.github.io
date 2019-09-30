@@ -6,7 +6,8 @@
 <hr>
 
 ## My Social Media
-<a href="https://www.instagram.com/laura_pembertonn/"> My Instagram</a>
+<a href="https://www.instagram.com/laura_pembertonn/"> Instagram</a>
+<a href="https://www.facebook.com/laura.pemberton.75"> Facebook</a>
 
 <hr>
 #### Navigation
