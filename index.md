@@ -5,9 +5,9 @@
 <hr>
 <div class="w3-blue">
   <h2>My Work</h2>
-  <p>My Github can be found:
-  <a href="https://github.com/LauraIsCool">Here</a>
-  </p>
+
+  <a href="https://github.com/LauraIsCool"> Click here to access my GitHub page</a>
+
 </div>
 
 <hr>
