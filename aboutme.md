@@ -3,5 +3,5 @@
 <img src="images/IMG_1851.jpeg" alt="Image of Me" width="200" height="220">
 
 <hr>
-# Navigation
-<a href="index.html">Home</a>
+## Navigation
+<a href="index.md">Home</a>
