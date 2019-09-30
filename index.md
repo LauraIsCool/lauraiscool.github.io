@@ -2,9 +2,8 @@
 ## This is my personal website.
 
 ---
-title: Test
+title: This is my GitHub Website
 ---
 
-My Github can be found: <https://github.com/LauraIsCool>
-
+My Github can be found: 
 <a href="https://github.com/LauraIsCool">Click Here</a>
