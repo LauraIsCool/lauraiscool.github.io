@@ -13,4 +13,4 @@ My Github can be found:
 
 <hr>
 
-<a href="aboutme.html">Page 2</a>
+<a href="aboutme.html">About Me</a>
