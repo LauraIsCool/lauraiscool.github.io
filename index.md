@@ -40,7 +40,7 @@ article {
   float: left;
   padding: 20px;
   width: 70%;
-  background-color: #f8fae1;
+  background-color: #eddae9;
 }
 
 /* Clear floats after the columns */
