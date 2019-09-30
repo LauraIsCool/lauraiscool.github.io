@@ -14,7 +14,7 @@ body {
 
 /* Style the header */
 header {
-  background-color: #666;
+  background-color: #c78fbc;
   padding: 30px;
   text-align: center;
   font-size: 35px;
@@ -33,7 +33,7 @@ nav {
 nav ul {
   list-style-type: none;
   padding: 0;
-  float: middle;
+  text-align: center;
 }
 
 article {
@@ -52,7 +52,7 @@ section:after {
 
 /* Style the footer */
 footer {
-  background-color: #777;
+  background-color: #c78fbc;
   padding: 10px;
   text-align: center;
   color: white;
