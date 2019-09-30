@@ -1,5 +1,3 @@
-BASIC INDEX html page 
-
 # Laura Pemberton
 #### This is my personal website.
 
@@ -14,3 +12,6 @@ My Github can be found:
 ## Navigation
 
 <a href="aboutme.html">About Me</a>
+
+
+
