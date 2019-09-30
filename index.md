@@ -25,7 +25,6 @@ header {
 nav {
   float: left;
   width: 30%;
-  height: 300px;
   background: #ccc;
   padding: 20px;
 }
@@ -41,7 +40,6 @@ article {
   padding: 20px;
   width: 70%;
   background-color: #f1f1f1;
-  height: 300px; 
 }
 
 /* Clear floats after the columns */
