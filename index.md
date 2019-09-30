@@ -10,4 +10,6 @@ My Github can be found:
 
 ![](images/IMG_1851.jpeg)
 
-<img src="IMG_1851.jpeg" alt="Image of Me" width="104" height="142">
+<img src="images/IMG_1851.jpeg" alt="Image of Me" width="104" height="142">
+
+
