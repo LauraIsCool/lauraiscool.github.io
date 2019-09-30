@@ -33,6 +33,7 @@ nav {
 nav ul {
   list-style-type: none;
   padding: 0;
+  float: middle;
 }
 
 article {
