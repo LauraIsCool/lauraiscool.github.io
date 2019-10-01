@@ -1,3 +1,5 @@
+/* Code edited from: https://www.w3schools.com/html/tryit.asp?filename=tryhtml_layout_float */
+
 <html lang="en">
 <head>
 <title>Laura Pemberton's Webpage</title>
